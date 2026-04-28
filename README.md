@@ -1,1 +1,1 @@
-#mack.style.github.io
+# mack-style.github.io
